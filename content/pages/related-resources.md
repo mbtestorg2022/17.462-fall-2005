@@ -23,15 +23,108 @@ It is an edited volume drawing largely on the resources of the MIT Security Stud
 Table of Contents
 -----------------
 
-| CHAPTER # | TITLES |
-| --- | --- |
-| 1 | Harvey M. Sapolsky, Benjamin H. Friedman, and Brendan Rittenhouse Green. "The Missing Transformation." |
-| 2 | David Burbach, Brendan Rittenhouse Green, and Benjamin H. Friedman. "The Technology of the Revolution in Military Affairs." |
-| 3 | Colin Jackson. "From Conservation to Revolutionary Intoxication: The US Army and the Second Interwar Period." |
-| 4 | Benjamin H. Friedman. "The Navy After the Cold War: Progress Without Revolution." |
-| 5 | Sanford L. Weiner. "Evolution in the Post-Cold War Air Force: Technology, Doctrine and Bureaucratic Politics." |
-| 6 | Austin Long. "The Marine Corps: Sticking to its Guns." |
-| 7 | Austin Long and Colin Jackson. "The Fifth Service: The Rise of Special Operations Command." |
-| 8 | Robert R. Tomes. "Defense Strategy in the 1990s: Old Wine, New Bottles." |
-| 9 | Eugene Gholz. "The RMA and the Defense Industry." |
-| 10 | Harvey M. Sapolsky, Benjamin H. Friedman, and Brendan Rittenhouse Green. "The RMA and the Second Interwar Period."
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CHAPTER #
+{{< thclose >}}
+{{< thopen >}}
+TITLES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Harvey M. Sapolsky, Benjamin H. Friedman, and Brendan Rittenhouse Green. "The Missing Transformation."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+David Burbach, Brendan Rittenhouse Green, and Benjamin H. Friedman. "The Technology of the Revolution in Military Affairs."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Colin Jackson. "From Conservation to Revolutionary Intoxication: The US Army and the Second Interwar Period."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Benjamin H. Friedman. "The Navy After the Cold War: Progress Without Revolution."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Sanford L. Weiner. "Evolution in the Post-Cold War Air Force: Technology, Doctrine and Bureaucratic Politics."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Austin Long. "The Marine Corps: Sticking to its Guns."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Austin Long and Colin Jackson. "The Fifth Service: The Rise of Special Operations Command."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Robert R. Tomes. "Defense Strategy in the 1990s: Old Wine, New Bottles."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Eugene Gholz. "The RMA and the Defense Industry."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Harvey M. Sapolsky, Benjamin H. Friedman, and Brendan Rittenhouse Green. "The RMA and the Second Interwar Period."
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
