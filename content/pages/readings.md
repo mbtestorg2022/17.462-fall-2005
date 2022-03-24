@@ -92,7 +92,7 @@ Strategic airpower
 {{< tdopen >}}
 
 
-Frankland, Noble. "The Combined Bomber Offensive: Classical and Revolutionary, Combined and Divided, Planned and Fortuitous." In _Command and Commanders in Modern Warfare: Proceedings of the Second Military History Symposium, U.S. Air Force Academy_. Edited by Lt. Colonel William Geffen. Colorado Springs, CO: United States Air Force Academy, 1971, pp. 253-267. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 16.7 MB](http://www.au.af.mil/au/awc/awcgate/cbo-afa/cbo00.htm))
+Frankland, Noble. "The Combined Bomber Offensive: Classical and Revolutionary, Combined and Divided, Planned and Fortuitous." In _Command and Commanders in Modern Warfare: Proceedings of the Second Military History Symposium, U.S. Air Force Academy_. Edited by Lt. Colonel William Geffen. Colorado Springs, CO: United States Air Force Academy, 1971, pp. 253-267. ([PDF - 16.7 MB](http://www.au.af.mil/au/awc/awcgate/cbo-afa/cbo00.htm))
 
 MacIsaac, David. "Voices from the Central Blue: The Air Power Theorists." In _Makers of Modern Strategy: From Machiavelli to the Nuclear Age_. Princeton, NJ: Princeton University Press, 1986, pp. 624-647. ISBN: 9780691027647.
 
@@ -188,7 +188,7 @@ Beesly, Patrick. "The First Twelve Months: A Lean Time," "Triton to the Rescue,"
 
 Sapolsky, Harvey M. _Science and the Navy_. Princeton, NJ: Princeton University Press, 1990, chapter 2, pp. 9-36. ISBN: 9780691078472.
 
-Cote, Owen R., Jr. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Third Battle: Innovation in the US Navy's Silent Cold War Struggle with Soviet Submarines." (PDF - 2.4MB)](https://fas.org/man/dod-101/sys/ship/docs/cold-war-asw.htm) MIT Security Studies Program, March 2000.
+Cote, Owen R., Jr. ["The Third Battle: Innovation in the US Navy's Silent Cold War Struggle with Soviet Submarines." (PDF - 2.4MB)](https://fas.org/man/dod-101/sys/ship/docs/cold-war-asw.htm) MIT Security Studies Program, March 2000.
 
 
 {{< tdclose >}}
@@ -268,11 +268,11 @@ Transformation: The Revolution in Military Affairs (RMA) and beyond
 {{< tdopen >}}
 
 
-Thirtle, Michael, Robert Johnson, and John Birkler. "The Historical Context for the Predator ACTD." In _The Predator ACTD: A Case Study for Transition Planning to the Formal Acquisition Process_. RAND Monograph Report MR-899-OSD, 1997, chapter 2, pp. 5-17. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 7.8 MB](https://www.princeton.edu/~ota/disk2/1987/8718/8718.PDF))
+Thirtle, Michael, Robert Johnson, and John Birkler. "The Historical Context for the Predator ACTD." In _The Predator ACTD: A Case Study for Transition Planning to the Formal Acquisition Process_. RAND Monograph Report MR-899-OSD, 1997, chapter 2, pp. 5-17. ([PDF - 7.8 MB](https://www.princeton.edu/~ota/disk2/1987/8718/8718.PDF))
 
 Anderegg, C. R. "Mud Beaters." Chapter 12 in _Sierra Hotel: Flying Air Force Fighters in the Decade After Vietnam_. Washington, DC: Air Force History and Museums Program, 2001, pp. 119-142. ISBN: 9781931839044.
 
-U.S. Congress, Office of Technology Assessment. "Summary." Chapter 2 in _New Technology for NATO: Implementing Follow on Forces Attack (FOFA)_. OTA-ISC-309. Washington, DC: U.S. Government Printing Office, June 1987, pp. 15-46. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.7 MB](https://www.princeton.edu/~ota/disk2/1987/8718/8718.PDF))
+U.S. Congress, Office of Technology Assessment. "Summary." Chapter 2 in _New Technology for NATO: Implementing Follow on Forces Attack (FOFA)_. OTA-ISC-309. Washington, DC: U.S. Government Printing Office, June 1987, pp. 15-46. ([PDF - 3.7 MB](https://www.princeton.edu/~ota/disk2/1987/8718/8718.PDF))
 
 Cohen, Eliot. "Change and Transformation in Military Affairs." _Journal of Strategic Studies_ 27, no. 3 (September 2004): 395-407.
 
