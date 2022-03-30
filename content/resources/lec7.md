@@ -5,6 +5,7 @@ description: Lecture notes on cruise and ballistic missiles, federally funded re
   competent government, and the post-cold war.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-462-innovation-in-military-organizations-fall-2005/789def1d1ad6117cb6742156a07c7811_lec7.pdf
 file_type: application/pdf
+parent_uid: b6aeea20-061e-7a8a-5635-dbf49e4c40a2
 resourcetype: Document
 title: Missiles, Ballistic and Cruise
 uid: 789def1d-1ad6-117c-b674-2156a07c7811
